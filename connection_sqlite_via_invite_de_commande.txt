@@ -1,0 +1,5 @@
+C:\Users\basti\Desktop\udemy\programmes\SQL\jobs.db>sqlite3 factbook.db
+SQLite version 3.42.0 2023-05-16 12:36:15
+Enter ".help" for usage hints.
+sqlite> .tables
+facts      landmarks

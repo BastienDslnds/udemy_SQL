@@ -1,0 +1,1 @@
+SELECT Rank, Major_code, Major, Major_category, total FROM recent_grads;
